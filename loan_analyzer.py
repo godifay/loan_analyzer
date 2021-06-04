@@ -235,4 +235,4 @@ with open(output_path,"w") as csv_file :
         writer.writerow(row)
         print(row)
 
-# Please see the inexpensive_loans CSV file in a separate upload to github 
+# Please see the inexpensive_loans CSV file in a separate upload to github.
